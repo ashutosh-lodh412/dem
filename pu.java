@@ -1,4 +1,7 @@
 class pu{
+    static void selectionSort(){
+        System.out.println("selectionsort");
+    }
     static void heapSort(){
         System.out.println("Heapsort");
     }
